@@ -1,0 +1,10 @@
+{
+  "name": "plus4-demo",
+  "title": "Teletype Games Plus/4 Demo",
+  "author": "Teletype Games",
+  "desc": "A Commodore Plus/4 title card in 6502 assembly: the Teletype Games title with a gold colour wash driven by the TED raster beam, a blinking prompt, and a clean return to BASIC on any key.",
+  "site": "https://git.teletypegames.org/demos/plus4-demo",
+  "repo": "https://git.teletypegames.org/demos/plus4-demo",
+  "license": "MIT",
+  "version": "1.0.0"
+}
